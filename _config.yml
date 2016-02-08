@@ -1,0 +1,28 @@
+name: Dramalounge
+favicon: null
+layout_spectrum: 0.09145248029381037
+typography_spectrum: 0.9918602283578366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.13355075241997838
+  lightness: 0.5429162285290658
+  saturation: 0.5899074645712972
+  rhythmicContrast: 0.4815063865389675
+purpose: []
